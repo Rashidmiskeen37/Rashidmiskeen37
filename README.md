@@ -3,13 +3,13 @@
 
       Machine Learning
       
-      Artificial Intelligence,
+      Artificial Intelligence
 
 - 🌱 I’m currently learning :
       
       Artificial Intelligence Algorithms
       
-      Machine Learning ,
+      Machine Learning 
       
 - 💞️ I’m looking to collaborate on :
 
