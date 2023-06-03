@@ -1,16 +1,39 @@
-### Hi there 👋
+- 👋 Hi, I’m Aadarsh Mehdi -> @amhkhowaja
+- 👀 I’m interested in 
 
-<!--
-**Rashidmiskeen37/Rashidmiskeen37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+      Machine Learning
+      
+      Deep Learning ,
+      
+      Artificial Intelligence,
 
-Here are some ideas to get you started:
+      Webscraping ,
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+      Automating the tedious tasks ,
+
+      Problem Solving
+
+- 🌱 I’m currently learning :
+      
+      Artificial Intelligence Algorithms
+      
+      Machine Learning ,
+      
+      Deep Learning
+      
+- 💞️ I’m looking to collaborate on :
+
+      C,           C++ , 
+      JAVA         Python
+      SQL,        Python - Tensorflow
+      Keras       
+
+- 📫 How to reach me ...
+      
+      LinkedIn: https://www.linkedin.com/in/aadarsh-mehdi-73754b13b/
+      
+      Email: aadarshofficial110@gmail.com
+<!---
+amhkhowaja/amhkhowaja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
