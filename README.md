@@ -1,15 +1,9 @@
-- 👋 Hi, I’m Aadarsh Mehdi -> @amhkhowaja
+- 👋 Hi, I’m Engr. Rashid Miskeen -> @Rashidmiskeen37
 - 👀 I’m interested in 
 
       Machine Learning
       
-      Deep Learning ,
-      
       Artificial Intelligence,
-
-      Webscraping ,
-
-      Automating the tedious tasks ,
 
       Problem Solving
 
@@ -19,21 +13,15 @@
       
       Machine Learning ,
       
-      Deep Learning
-      
 - 💞️ I’m looking to collaborate on :
 
-      C,           C++ , 
-      JAVA         Python
-      SQL,        Python - Tensorflow
-      Keras       
+      Python         Matlab
+      Python - Tensorflow      
 
 - 📫 How to reach me ...
       
-      LinkedIn: https://www.linkedin.com/in/aadarsh-mehdi-73754b13b/
-      
-      Email: aadarshofficial110@gmail.com
+      Email: S5152104@studenti.unige.it
 <!---
-amhkhowaja/amhkhowaja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Rashidmiskeen37/Rashidmiskeen37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
